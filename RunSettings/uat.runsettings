@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="Environment" value="uat" />
+		<Parameter name="siteUrl" value="uat-siteUrl" />
+		<Parameter name="loginUsername" value="uat-loginUsername" />
+		<Parameter name="loginPassword" value="uat-loginPassword" />
+	</TestRunParameters>
+</RunSettings>

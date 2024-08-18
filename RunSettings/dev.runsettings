@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+	 <Parameter name="Environment" value="dev" />
+	  <Parameter name="siteUrl" value="dev-siteUrl" />
+	  <Parameter name="loginUsername" value="dev-loginUsername" />
+	  <Parameter name="loginPassword" value="dev-loginPassword" />
+  </TestRunParameters>
+</RunSettings>

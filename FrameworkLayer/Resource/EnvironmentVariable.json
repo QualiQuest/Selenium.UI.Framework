@@ -1,0 +1,18 @@
+{
+  "browser": "chrome",
+  "tst-siteUrl": "https://www.marksandspencer.com/",
+  "tst-loginUsername": "jennifer_chukwudum@yahoo.com",
+  "tst-loginPassword": "Jenny@m&s24",
+  "dev-siteUrl": "https://www.marksandspencer.com/",
+  "dev-loginUsername": "jennifer_chukwudum@yahoo.com",
+  "dev-loginPassword": "Jenny@m&s24",
+  "prod-siteUrl": "https://www.marksandspencer.com/",
+  "prod-loginUsername": "jennifer_chukwudum@yahoo.com",
+  "prod-loginPassword": "Jenny@m&s24",
+  "stg-siteUrl": "https://www.marksandspencer.com/",
+  "stg-loginUsername": "jennifer_chukwudum@yahoo.com",
+  "stg-loginPassword": "Jenny@m&s24",
+  "uat-siteUrl": "https://www.marksandspencer.com/",
+  "uat-loginUsername": "jennifer_chukwudum@yahoo.com",
+  "uat-loginPassword": "Jenny@m&s24"
+}

@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\runsettings\\tst.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:runsettings\\tst.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\runsettings\\uat.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:runsettings\\uat.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\runsettings\\stg.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:runsettings\\stg.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\runsettings\\prod.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:runsettings\\prod.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\runsettings\\dev.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:runsettings\\dev.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\frameworklayer\\resource\\environmentvariable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\resource\\environmentvariable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\frameworklayer\\utility\\variablevaluereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\utility\\variablevaluereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\frameworklayer\\utility\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\utility\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\frameworklayer\\utility\\scrollactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\utility\\scrollactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\autotest01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:autotest01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\source\\repos\\mns-ui-test-project\\mns-ui-test-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:mns-ui-test-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "prod.runsettings",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\prod.runsettings",
+              "RelativeDocumentMoniker": "RunSettings\\prod.runsettings",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\prod.runsettings",
+              "RelativeToolTip": "RunSettings\\prod.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T21:30:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stg.runsettings",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\stg.runsettings",
+              "RelativeDocumentMoniker": "RunSettings\\stg.runsettings",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\stg.runsettings",
+              "RelativeToolTip": "RunSettings\\stg.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T21:29:49.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dev.runsettings",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\dev.runsettings",
+              "RelativeDocumentMoniker": "RunSettings\\dev.runsettings",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\dev.runsettings",
+              "RelativeToolTip": "RunSettings\\dev.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T21:28:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uat.runsettings",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\uat.runsettings",
+              "RelativeDocumentMoniker": "RunSettings\\uat.runsettings",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\uat.runsettings",
+              "RelativeToolTip": "RunSettings\\uat.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T21:30:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tst.runsettings",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\tst.runsettings",
+              "RelativeDocumentMoniker": "RunSettings\\tst.runsettings",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\RunSettings\\tst.runsettings",
+              "RelativeToolTip": "RunSettings\\tst.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T21:29:30.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\TestBase\\BasePage.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\TestBase\\BasePage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\TestBase\\BasePage.cs",
+              "RelativeToolTip": "FrameworkLayer\\TestBase\\BasePage.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAewEUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T16:55:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoTest02.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\TestLayer\\AutoTest02.cs",
+              "RelativeDocumentMoniker": "TestLayer\\AutoTest02.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\TestLayer\\AutoTest02.cs",
+              "RelativeToolTip": "TestLayer\\AutoTest02.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAewCABAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:55:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnvironmentVariable.json",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "RelativeToolTip": "FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T17:07:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VariableValueReader.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:34:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\PathHelper.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\PathHelper.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\PathHelper.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\PathHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:39:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScrollActions.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\ScrollActions.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\ScrollActions.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\FrameworkLayer\\Utility\\ScrollActions.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\ScrollActions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:39:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateAccountPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:25:12.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\LandingPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LandingPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\LandingPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\LandingPage.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:55:39.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:55:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserHomepage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\UserHomepage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\UserHomepage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\ApplicationLayer\\Pages\\UserHomepage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\UserHomepage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:27:25.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MnS-UI-Test-Project.csproj",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\MnS-UI-Test-Project.csproj",
+              "RelativeDocumentMoniker": "MnS-UI-Test-Project.csproj",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\MnS-UI-Test-Project.csproj",
+              "RelativeToolTip": "MnS-UI-Test-Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T17:18:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoTest01.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\AutoTest01.cs",
+              "RelativeDocumentMoniker": "AutoTest01.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\AutoTest01.cs",
+              "RelativeToolTip": "AutoTest01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:50:47.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

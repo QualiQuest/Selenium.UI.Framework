@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="Environment" value="prod" />
+		<Parameter name="siteUrl" value="prod-siteUrl" />
+		<Parameter name="loginUsername" value="prod-loginUsername" />
+		<Parameter name="loginPassword" value="prod-loginPassword" />
+	</TestRunParameters>
+</RunSettings>

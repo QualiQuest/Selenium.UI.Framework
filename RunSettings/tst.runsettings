@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="Environment" value="tst" />
+		<Parameter name="siteUrl" value="tst-siteUrl" />
+		<Parameter name="loginUsername" value="tst-loginUsername" />
+		<Parameter name="loginPassword" value="tst-loginPassword" />
+	</TestRunParameters>
+</RunSettings>

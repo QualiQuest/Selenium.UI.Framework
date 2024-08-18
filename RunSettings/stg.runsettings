@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="Environment" value="stg" />
+		<Parameter name="siteUrl" value="stg-siteUrl" />
+		<Parameter name="loginUsername" value="stg-loginUsername" />
+		<Parameter name="loginPassword" value="stg-loginPassword" />
+	</TestRunParameters>
+</RunSettings>
