@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+*.testlog
+*.suo
+
+**/obj/Debug/net8.0
