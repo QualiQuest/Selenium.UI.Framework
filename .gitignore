@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+obj/Debug/net8.0/
+.vs/Mns-UI-Test-Project

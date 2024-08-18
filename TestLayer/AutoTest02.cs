@@ -55,9 +55,11 @@ namespace MnS_UI_Test_Project.TestLayer
                 Thread.Sleep(1000);
 
                 var isBabyDressesPageNavigatedTo = LocateElement("//h1[.='Baby Dresses']").Displayed;
-                Driver.FindElement(By.XPath("//div[@id='60675052']//a/child::div//h2[contains(.,'Floral Dress')]")).Click();
-                LocateElement("//div[@id='60675052']//a/child::div//h2[contains(.,'Floral Dress')]").Click();
-                var product = LocateElement("//p[contains(text(),'Product code: ')]").Text;
+                ClickOnElement(LocateElement("//div[@id='60675052']//a/child::div//h2[contains(.,'Floral Dress')]"));
+                //river.FindElement(By.XPath("//div[@id='60675052']//a/child::div//h2[contains(.,'Floral Dress')]")).Click();
+                //LocateElement("//div[@id='60675052']//a/child::div//h2[contains(.,'Floral Dress')]").Click();
+                //var product = LocateElement("//p[contains(text(),'Product code: ')]").Text;
+                var product = GetElementsText(LocateElement("//p[contains(text(),'Product code: ')]"));
                 Assert.That(product.Contains("T782363A"), Is.True);
 
                 //_actions = new Actions(Driver);
@@ -78,14 +80,18 @@ namespace MnS_UI_Test_Project.TestLayer
             [Test]
             public void VerifyThatUsersAreAbleToSortProducts()
             {
-                var loginpage = new LandingPage().GotoLoginPage();
-                IWebElement menTab = LocateElement("//p[text()='Men']");
+                var loginPage = new LandingPage().GotoLoginPage();
+                var username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
+                var password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
+                var userHomepage = loginPage.LoginToApplication(username,password);
+                userHomepage.SelectProductCategory("Men", "Shoes");
+                /*IWebElement menTab = LocateElement("//p[text()='Men']");
                 MoveToAnElement (menTab);
                 Thread.Sleep(2000);
 
                 IWebElement shoesCat = LocateElement("//p[.='Men']/../following-sibling::div//a[.='Shoes']");
                 MoveToElementAndClick (shoesCat);
-                Thread.Sleep(1000);
+                Thread.Sleep(1000);*/
 
                 var isShoePageNavigatedTo = LocateElement("//h1[.='Men’s New-In Shoes']").Displayed;
                 Assert.That(isShoePageNavigatedTo, Is.True);

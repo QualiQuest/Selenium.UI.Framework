@@ -6,6 +6,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Interactions;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -96,10 +97,10 @@ namespace MnS_UI_Test_Project.FrameworkLayer.TestBase
             return elementToGetTextFor.Text;
         }
 
-        //private void SelectedProductSize(string filterBabySizes)
-        //{
-        //    var filterItemElement = Driver.FindElement(By.XPath($"//span[.='Baby Sizes']/../following-sibling::div//ul//li//input[@id='{filterBabySizes}-Baby Sizes']"));
-        //    filterItemElement.Click();
-        //}
+        public void SelectItemFromDropdown(IWebElement dropdownToSelectFrom, string itemNameToSelect)
+        {
+            SelectElement selectElement = new SelectElement(dropdownToSelectFrom);
+            selectElement.SelectByText(itemNameToSelect);
+        }
     }
 }

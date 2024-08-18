@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\MnS-UI-Test-Project.csproj",
+      "projectUniqueName": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\MnS-UI-Test-Project.csproj",
       "projectName": "MnS-UI-Test-Project",
-      "projectPath": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\MnS-UI-Test-Project.csproj",
+      "projectPath": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\MnS-UI-Test-Project.csproj",
       "packagesPath": "C:\\Users\\jenni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenni\\source\\repos\\MnS-UI-Test-Project\\obj\\",
+      "outputPath": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

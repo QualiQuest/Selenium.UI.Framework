@@ -13,5 +13,12 @@ namespace MnS_UI_Test_Project.ApplicationLayer.Pages
             var userAccountGreetingMessage = GetElementsText(userAccountGreetingMessageElement);
             return userAccountGreetingMessage;
         }
+
+        public ProductsPage SelectProductCategory(string productTabName, string productCategory)
+        {
+            MoveToAnElement(LocateElement($"//p[.='{productTabName}']"));
+            MoveToElementAndClick(LocateElement($"//li//a[.='{productCategory}']"));
+            return new ProductsPage();
+        }
     }
 }
