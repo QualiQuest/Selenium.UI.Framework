@@ -24,7 +24,7 @@ namespace MnS_UI_Test_Project.ApplicationLayer.Pages
 
         public BagPage AddProductToBag()
         {
-            ClickOnElement(LocateElement("//button[.='Add to bag']"));
+            ClickOnElement(LocateElement("//button[.='Drop in my bag' or .='Add to bag']"));
             return new BagPage();
         }
     }

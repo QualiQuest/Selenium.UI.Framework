@@ -15,12 +15,15 @@ namespace MnS_UI_Test_Project.TestLayer
 {
     public class AutoTest02
     {
-        public class Test : BasePage
+        public class Test : BasePage  
         {
             // private IWebDriver Driver;
             private Actions _actions;
             private SelectElement select;
             private Func<By, IWebElement> signoutItem;
+
+           string username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
+           string password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
 
             [SetUp]
             public void Setup()
@@ -84,6 +87,9 @@ namespace MnS_UI_Test_Project.TestLayer
                 var username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
                 var password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
                 var userHomepage = loginPage.LoginToApplication(username,password);
+                var welcomeMessage = "Hello again, Jennifer";
+                Assert.That(userHomepage.GetAccountGreetingMessage().Contains(welcomeMessage), Is.True);
+                
                 userHomepage.SelectProductCategory("Men", "Shoes");
                 /*IWebElement menTab = LocateElement("//p[text()='Men']");
                 MoveToAnElement (menTab);
@@ -127,18 +133,53 @@ namespace MnS_UI_Test_Project.TestLayer
             }
 
             [Test]
+
+            public void VerifyThatUserCanSuccesfullyAddProductToBag()
+            {
+                var loginPage = new LandingPage().GotoLoginPage();
+                var username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
+                var password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
+                var userHomepage = loginPage.LoginToApplication(username, password);
+               /* var welcomeMessage = "Hello again, Jennifer";
+                Assert.That(userHomepage.GetAccountGreetingMessage().Contains(welcomeMessage), Is.True);*/
+
+                var productsPage = userHomepage.SelectProductCategory("Women", "Footwear");
+                //var productSelected = LocateElement("//h2[.='Kitten Heel Pointed Court Shoes']");
+                var productName =  "Kitten Heel Pointed Court Shoes";
+                //productsPage.SelectProduct("productName");
+                var productpage = productsPage.SelectProduct(productName);
+
+                //var productColour = LocateElement("//label[starts-with(@id,'Silver')]");
+                productpage.SelectProductColour("Silver");
+
+                //click on goto wishlist
+                // var isAddedItemInTheWishList = LocateElement($"//h2[.='{productName}']).Display;
+                //Asert.That(isAddedItemInTheWishList, Is.True);
+                //WishListPage
+                // public bool IsProductOnWishList(string productName){ return LocateElement($"//h2[.='{productName}']).Display;}
+
+            }
+
+            [Test]
             public void VerifyThatUsersCanSuccessfullyFilterProducts()
             {
-                var loginpage = new LandingPage().GotoLoginPage();
-                IWebElement kidsTab = LocateElement("//p[text()='Kids']");
+                var loginPage = new LandingPage().GotoLoginPage();
+
+                var userHomepage = loginPage.LoginToApplication(username,password);
+                var productsPage = userHomepage.SelectProductCategory("Kids", "Girls");
+                productsPage.FilterProduct("Colour", "Blue");
+                productsPage.FilterProduct("Colour", "Yellow");
+                productsPage.FilterProduct("Colour", "Green");
+                productsPage.FilterProduct("Colour", "Brown");
+                /*IWebElement kidsTab = LocateElement("//p[text()='Kids']");
                 MoveToAnElement(kidsTab);
                 Thread.Sleep(2000);
 
                 IWebElement girlsCat = LocateElement("//p[.='Kids']/../following-sibling::div//a[.='Girls']");
                 MoveToElementAndClick(girlsCat);
-                Thread.Sleep(1000);
+                Thread.Sleep(1000);*/
 
-                IWebElement filterDropdown = LocateElement("//span[.='Colour']");
+               /* IWebElement filterDropdown = LocateElement("//span[.='Colour']");
                 ClickOnElement(filterDropdown);
                 ChooseFilterColour("Blue");
                 ChooseFilterColour("Yellow");
@@ -146,9 +187,8 @@ namespace MnS_UI_Test_Project.TestLayer
                 ChooseFilterColour("Brown");
 
                 IWebElement viewItemBtn = LocateElement("//span[.='Colour']/../following-sibling::div//button[.='View Items']");
-                ClickOnElement(viewItemBtn);
+                ClickOnElement(viewItemBtn);*/
 
-                var isAllIntendedFilterColourSelected = false;
                 var selectedColourFilers = Driver.FindElements(By.XPath("//button[.='Clear all']/following-sibling::div//ul//li//span//button/preceding-sibling::span"));
                 Assert.That(selectedColourFilers.ToArray().Length.Equals(4), Is.True);
 
@@ -206,7 +246,7 @@ namespace MnS_UI_Test_Project.TestLayer
                 select.SelectByText("Ratings");//ask Vicero how to select by value, index selection makes the code flaky, best to select by text.
                 Thread.Sleep(1000);
 
-                SelectProduct("Polka Dot Mug");
+                //SelectProduct("Polka Dot Mug");
                 Thread.Sleep(1000);
 
                 IWebElement quantityDropdown = LocateElement("//select[@id='quantitySelector']");
@@ -285,9 +325,9 @@ namespace MnS_UI_Test_Project.TestLayer
 
                 IWebElement sizeDropdown = LocateElement("//span[.='Baby Sizes']");
                 ClickOnElement(sizeDropdown);
-                SelectedProductSize("0-3 Months");
+                /*SelectedProductSize("0-3 Months");
                 SelectedProductSize("3-6 Months");
-                SelectedProductSize("6-9 Months");
+                SelectedProductSize("6-9 Months");*/
 
                 IWebElement viewItemButton = LocateElement("//span[.='Baby Sizes']/../following-sibling::div//button[.='View Items']");
                 ClickOnElement(viewItemButton);
@@ -324,8 +364,6 @@ namespace MnS_UI_Test_Project.TestLayer
             {
                 var loginPage = new LandingPage().GotoLoginPage();
                 Thread.Sleep(1000);     //tst-loginUsername
-                var username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
-                var password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
                 var userHomepage = loginPage.LoginToApplication(username, password);
                 var welcomeMessage = "Hello again, Jennifer";
                 Assert.That(userHomepage.GetAccountGreetingMessage().Contains(welcomeMessage), Is.True);
@@ -402,7 +440,7 @@ namespace MnS_UI_Test_Project.TestLayer
 
             }
 
-            private void SelectProduct(string productName)
+           /* private void SelectProduct(string productName)
             {
                 //ScrollDown(0.2);
                 IWebElement productToSelect = Driver.FindElement(By.XPath($"//h2[.='{productName}']")); //h2[.='Full Sun Routine']
@@ -436,7 +474,7 @@ namespace MnS_UI_Test_Project.TestLayer
             {
                 var filterItemElement = Driver.FindElement(By.XPath($"//span[.='Baby Sizes']/../following-sibling::div//ul//li//input[@id='{filterBabySizes}-Baby Sizes']"));
                 filterItemElement.Click();
-            }
+            }*/
 
 
 

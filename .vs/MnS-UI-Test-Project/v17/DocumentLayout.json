@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:testlayer\\autotest02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\bagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\bagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\frameworklayer\\resource\\environmentvariable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -63,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:frameworklayer\\utility\\scrollactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|c:\\users\\jenni\\onedrive\\desktop\\selenium.ui.framework\\autotest01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17DFF63D-31DB-4C58-91FF-DA2D97C72920}|MnS-UI-Test-Project.csproj|solutionrelative:autotest01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,13 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "BagPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\BagPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\BagPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\BagPage.cs*",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\BagPage.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:29:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductPage.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\ProductPage.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\ProductPage.cs",
               "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\ProductPage.cs",
               "RelativeToolTip": "ApplicationLayer\\Pages\\ProductPage.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T16:08:53.997Z",
               "EditorCaption": ""
@@ -113,13 +130,14 @@
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\ProductsPage.cs",
               "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\ProductsPage.cs",
               "RelativeToolTip": "ApplicationLayer\\Pages\\ProductsPage.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:31:59.971Z"
+              "WhenOpened": "2024-08-18T15:31:59.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "prod.runsettings",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\RunSettings\\prod.runsettings",
               "RelativeDocumentMoniker": "RunSettings\\prod.runsettings",
@@ -131,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "stg.runsettings",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\RunSettings\\stg.runsettings",
               "RelativeDocumentMoniker": "RunSettings\\stg.runsettings",
@@ -143,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "dev.runsettings",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\RunSettings\\dev.runsettings",
               "RelativeDocumentMoniker": "RunSettings\\dev.runsettings",
@@ -155,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "uat.runsettings",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\RunSettings\\uat.runsettings",
               "RelativeDocumentMoniker": "RunSettings\\uat.runsettings",
@@ -167,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "tst.runsettings",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\RunSettings\\tst.runsettings",
               "RelativeDocumentMoniker": "RunSettings\\tst.runsettings",
@@ -179,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BasePage.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\FrameworkLayer\\TestBase\\BasePage.cs",
               "RelativeDocumentMoniker": "FrameworkLayer\\TestBase\\BasePage.cs",
@@ -191,19 +209,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AutoTest02.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\TestLayer\\AutoTest02.cs",
               "RelativeDocumentMoniker": "TestLayer\\AutoTest02.cs",
-              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\TestLayer\\AutoTest02.cs",
-              "RelativeToolTip": "TestLayer\\AutoTest02.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAgwFMAAAAAAAAA",
+              "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\TestLayer\\AutoTest02.cs*",
+              "RelativeToolTip": "TestLayer\\AutoTest02.cs*",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAUwJUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T19:55:34.087Z"
+              "WhenOpened": "2024-08-07T19:55:34.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EnvironmentVariable.json",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\FrameworkLayer\\Resource\\EnvironmentVariable.json",
               "RelativeDocumentMoniker": "FrameworkLayer\\Resource\\EnvironmentVariable.json",
@@ -215,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "VariableValueReader.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\FrameworkLayer\\Utility\\VariableValueReader.cs",
               "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\VariableValueReader.cs",
@@ -227,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PathHelper.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\FrameworkLayer\\Utility\\PathHelper.cs",
               "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\PathHelper.cs",
@@ -239,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ScrollActions.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\FrameworkLayer\\Utility\\ScrollActions.cs",
               "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\ScrollActions.cs",
@@ -251,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "CreateAccountPage.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\CreateAccountPage.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
@@ -259,11 +278,12 @@
               "RelativeToolTip": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:25:12.277Z"
+              "WhenOpened": "2024-08-13T21:25:12.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "LandingPage.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\LandingPage.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LandingPage.cs",
@@ -271,19 +291,21 @@
               "RelativeToolTip": "ApplicationLayer\\Pages\\LandingPage.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAMwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T19:55:39.817Z"
+              "WhenOpened": "2024-08-13T19:55:39.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\LoginPage.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LoginPage.cs",
               "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\LoginPage.cs",
               "RelativeToolTip": "ApplicationLayer\\Pages\\LoginPage.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA3wBsAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T19:55:52.866Z"
+              "WhenOpened": "2024-08-13T19:55:52.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -293,13 +315,14 @@
               "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\UserHomepage.cs",
               "ToolTip": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\ApplicationLayer\\Pages\\UserHomepage.cs",
               "RelativeToolTip": "ApplicationLayer\\Pages\\UserHomepage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAABNAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:27:25.176Z"
+              "WhenOpened": "2024-08-13T20:27:25.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MnS-UI-Test-Project.csproj",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\MnS-UI-Test-Project.csproj",
               "RelativeDocumentMoniker": "MnS-UI-Test-Project.csproj",
@@ -311,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AutoTest01.cs",
               "DocumentMoniker": "C:\\Users\\jenni\\OneDrive\\Desktop\\Selenium.UI.Framework\\AutoTest01.cs",
               "RelativeDocumentMoniker": "AutoTest01.cs",
